@@ -1,4 +1,4 @@
-# image gallary
+# image gallery
 
 
 https://imagegallerybp.netlify.app/
